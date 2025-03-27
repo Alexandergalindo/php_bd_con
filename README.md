@@ -67,6 +67,3 @@ CREATE TABLE users (
    ```
 2. Si ve la página de inicio, la instalación fue exitosa.
 
----
-
-Con esto, tu proyecto estará funcionando correctamente en XAMPP.
